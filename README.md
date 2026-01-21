@@ -4,8 +4,6 @@ Senior Software Engineer with 6+ years of professional experience building, main
 
 I specialize in **.NET ecosystem**, **cloud-native architectures on AWS**, and **clean, maintainable system design**. I’ve worked end-to-end across legacy systems, modern microservices, CI/CD pipelines, and production monitoring — always with a strong focus on reliability, performance, and business value.
 
-Currently based in Europe, open to international and remote opportunities.
-
 ---
 
 ## 🧠 Professional Strengths
@@ -85,5 +83,5 @@ I value clarity, ownership, and long-term thinking — in code and in life.
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/lucena-lucas  
-- GitHub: https://github.com/lucaslucenagithub  
+- GitHub: https://github.com/dev-lucaslucena  
 - Email: contact@lucaslucena.com
